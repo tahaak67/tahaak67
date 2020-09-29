@@ -11,6 +11,11 @@
 - ⚡ Fun fact: I love music & Video games (playing fortnite these days)
 
 ---
+### Languages & tools
+
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+---
 
 ### 📕 Latest Blog Posts
 
@@ -26,9 +31,13 @@
 
 ---
 
-
-
 ### Music 🎧 
   
 <a href="https://play.anghami.com/profile/81211465?bid=/egLdLmlOaab" title="anghami profile"><img src="https://user-images.githubusercontent.com/18553624/94550025-5e25aa80-0253-11eb-96cd-ae1d4dd95819.png" width="40" height="40"></a>
+
+---
+
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tahaak67&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
