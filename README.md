@@ -1,4 +1,4 @@
-### Peace on you, I'm Taha - aka [tahaak67][website] 👋
+### Peace on you, I'm Taha - aka [tahaak67] <img src="https://github.com/tahaak67/tahaak67/blob/master/wave.gif" width="25" height="25" alt="Waveing Hi">
 
 
 [![Website](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https%3A%2F%2F699taha.blogspot.com%2F)](https://699taha.blogspot.com)
