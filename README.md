@@ -1,7 +1,7 @@
 ### Peace on you, I'm Taha - aka [tahaak67] <img src="https://github.com/tahaak67/tahaak67/blob/master/wave.gif" width="25" height="25" alt="Waveing Hi">
 
 
-[![Website](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https%3A%2F%2F699taha.blogspot.com%2F)](https://699taha.blogspot.com)
+[![Website](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https%3A%2F%2Ftahaben.com.ly%2F)](https://tahaben.com.ly/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tahaak67?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftahaak67&screen_name=tahaak67)
 
 ## I'm an Android developer, student and a brother 🤣!
