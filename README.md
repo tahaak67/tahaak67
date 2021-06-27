@@ -7,7 +7,7 @@
 ## I'm an Android developer, student and a brother 🤣!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: start learning back-end development
+- 🥅 2021 Goals: start learning back-end development
 - ⚡ Fun fact: I love music & Video games (playing fortnite these days)
 
 ---
