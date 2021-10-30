@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to encrypt files in Android using Kotlin](https://tahaben.com.ly/2021/10/how-to-encrypt-files-in-android-using-kotlin/)
 - [Android – Retrofit: Handling error body in kotlin coroutines.](https://tahaben.com.ly/2020/07/android-retrofit-handling-error-body-in-kotlin-coroutines/)
 - [Delux M555 Gaming Mouse Software](https://tahaben.com.ly/2019/12/delux-m555-gaming-mouse-software/)
 - [تسريب: موعد صدور Team Sonic Racing](https://tahaben.com.ly/2018/07/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%85%d9%88%d8%b9%d8%af-%d8%b5%d8%af%d9%88%d8%b1-team-sonic-racing/)
 - [أخيراً: محاكي النينتندو سويتش أصبح قادراً على تشغيل بعض الألعاب !](https://tahaben.com.ly/2018/07/%d8%a3%d8%ae%d9%8a%d8%b1%d8%a7%d9%8b-%d9%85%d8%ad%d8%a7%d9%83%d9%8a-%d8%a7%d9%84%d9%86%d9%8a%d9%86%d8%aa%d9%86%d8%af%d9%88-%d8%b3%d9%88%d9%8a%d8%aa%d8%b4-%d8%a3%d8%b5%d8%a8%d8%ad-%d9%82%d8%a7%d8%af/)
-- [ما حدث في قسم نينتندو لمؤتمر E3.](https://tahaben.com.ly/2018/06/%d9%85%d8%a7-%d8%ad%d8%af%d8%ab-%d9%81%d9%8a-%d9%82%d8%b3%d9%85-%d9%86%d9%8a%d9%86%d8%aa%d9%86%d8%af%d9%88-%d9%84%d9%85%d8%a4%d8%aa%d9%85%d8%b1-e3/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://699taha.blogspot.com)
