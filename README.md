@@ -7,7 +7,7 @@
 ## I'm an Android developer, student and a brother 🤣!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute to open source projects :)
+- 🥅 2023 Goals: Contribute to open source projects :)
 - ⚡ Fun fact: I love music & Video games (playing fortnite these days)
 
 ---
