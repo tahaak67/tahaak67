@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bottom navigation bar setup tutorial – Android [XML]](https://tahaben.com.ly/2023/02/bottom-navigation-bar-setup-guide-android-xml/)
 - [Using SharedPreferences to save basic user info](https://tahaben.com.ly/2023/02/using-sharedpreferences-to-save-basic-user-info/)
 - [Display a list of items in a RecyclerView on Android using Kotlin](https://tahaben.com.ly/2023/02/how-to-use-recyclerview-on-android-using-kotlin/)
 - [Uploading image using Android Ktor client to Ktor server](https://tahaben.com.ly/2022/04/uploading-image-using-android-ktor-client-to-ktor-server/)
 - [How to encrypt files in Android using Kotlin](https://tahaben.com.ly/2021/10/how-to-encrypt-files-in-android-using-kotlin/)
-- [Android – Retrofit: Handling error body in kotlin coroutines.](https://tahaben.com.ly/2020/07/android-retrofit-handling-error-body-in-kotlin-coroutines/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://699taha.blogspot.com)
