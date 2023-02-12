@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Hilt for dependency injection in your Android projects](https://tahaben.com.ly/2023/02/how-to-use-hilt-for-dependency-injection-in-your-android-projects/)
 - [Making API request using Ktor client in Android](https://tahaben.com.ly/2023/02/making-api-request-using-ktor-client-in-android/)
 - [Bottom navigation bar setup tutorial – Android [XML]](https://tahaben.com.ly/2023/02/bottom-navigation-bar-setup-guide-android-xml/)
 - [Using SharedPreferences to save basic user info](https://tahaben.com.ly/2023/02/using-sharedpreferences-to-save-basic-user-info/)
 - [Display a list of items in a RecyclerView on Android using Kotlin](https://tahaben.com.ly/2023/02/how-to-use-recyclerview-on-android-using-kotlin/)
-- [Uploading image using Android Ktor client to Ktor server](https://tahaben.com.ly/2022/04/uploading-image-using-android-ktor-client-to-ktor-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://699taha.blogspot.com)
