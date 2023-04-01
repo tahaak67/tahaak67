@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ktor server for beginners – MongoDB &lpar;Part 1 – CRUD&rpar;](https://tahaben.com.ly/2023/03/ktor-server-basics-saving-data-using-mongodb/)
 - [Ktor server basics – sending and receiving data](https://tahaben.com.ly/2023/03/ktor-server-basics-sending-and-receiving-data/)
 - [State management with Provider in Flutter – Beginner tutorial](https://tahaben.com.ly/2023/03/state-management-with-provider-in-flutter-beginner-tutorial/)
 - [How to use Hilt for dependency injection in your Android projects](https://tahaben.com.ly/2023/02/how-to-use-hilt-for-dependency-injection-in-your-android-projects/)
 - [Making API request using Ktor client in Android](https://tahaben.com.ly/2023/02/making-api-request-using-ktor-client-in-android/)
-- [Bottom navigation bar setup tutorial – Android [XML]](https://tahaben.com.ly/2023/02/bottom-navigation-bar-setup-guide-android-xml/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://699taha.blogspot.com)
