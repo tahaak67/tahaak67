@@ -29,11 +29,6 @@
 
 ➡️ [more blog posts...](https://699taha.blogspot.com)
 
----
-
-### Music 🎧 
-  
-<a href="https://play.anghami.com/profile/81211465?bid=/egLdLmlOaab" title="anghami profile"><img src="https://user-images.githubusercontent.com/18553624/94550025-5e25aa80-0253-11eb-96cd-ae1d4dd95819.png" width="40" height="40"></a>
 
 ---
 
