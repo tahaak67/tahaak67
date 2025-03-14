@@ -20,7 +20,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ktor server for beginners – Login &amp; Authentication – Part 2 [WIP]](https://tahaben.com.ly/2024/10/ktor-server-for-beginners-login-amp-authentication-part-2/)
+- [Ktor server for beginners – Login &amp; Authentication – Part 2](https://tahaben.com.ly/2024/10/ktor-server-for-beginners-login-amp-authentication-part-2/)
 - [Navigation in compose using Voyager &lpar;Android &amp; KMP&rpar;](https://tahaben.com.ly/2024/09/navigation-in-compose-using-voyager-android-kmp/)
 - [How to preview your UI in Compose multiplatform &lpar;Android studio / Intellij&rpar;](https://tahaben.com.ly/2024/07/how-to-preview-your-ui-in-compose-multiplatform-android-studio-intellij/)
 - [Ktor server for beginners – Login &amp; Authentication – Part 1](https://tahaben.com.ly/2023/06/ktor-server-for-beginners-login-authentication/)
