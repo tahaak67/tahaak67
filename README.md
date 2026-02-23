@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ktor for beginners – Localization](https://tahaben.com.ly/2026/02/ktor-for-beginners-localization/)
-- [Ktor for beginners – Request Validation](https://tahaben.com.ly/2025/07/ktor-for-beginners-request-validation/)
-- [Ktor for beginners – Status Pages](https://tahaben.com.ly/2025/06/ktor-for-beginners-status-pages/)
-- [Ktor server for beginners – Pagination](https://tahaben.com.ly/2025/06/ktor-server-for-beginners-pagination/)
-- [Ktor server for beginners – Login &amp; Authentication – Part 2](https://tahaben.com.ly/2024/10/ktor-server-for-beginners-login-amp-authentication-part-2/)
+- [Ktor for beginners – Localization](https://tahaben.com.ly/2026/02/ktor-for-beginners-localization/?utm_source=rss&utm_medium=rss&utm_campaign=ktor-for-beginners-localization)
+- [Ktor for beginners – Request Validation](https://tahaben.com.ly/2025/07/ktor-for-beginners-request-validation/?utm_source=rss&utm_medium=rss&utm_campaign=ktor-for-beginners-request-validation)
+- [Ktor for beginners – Status Pages](https://tahaben.com.ly/2025/06/ktor-for-beginners-status-pages/?utm_source=rss&utm_medium=rss&utm_campaign=ktor-for-beginners-status-pages)
+- [Ktor server for beginners – Pagination](https://tahaben.com.ly/2025/06/ktor-server-for-beginners-pagination/?utm_source=rss&utm_medium=rss&utm_campaign=ktor-server-for-beginners-pagination)
+- [Ktor server for beginners – Login &amp; Authentication – Part 2](https://tahaben.com.ly/2024/10/ktor-server-for-beginners-login-amp-authentication-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=ktor-server-for-beginners-login-amp-authentication-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://699taha.blogspot.com)
